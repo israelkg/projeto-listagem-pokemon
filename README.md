@@ -12,6 +12,4 @@ https://listagem-pokemonn.netlify.app/
 ![README2](https://github.com/israelkg/projeto-listagem-pokemon/assets/159387743/72029753-529f-4be4-9095-5ee09dc4e1b2)
 
 # Linguagens Usadas
-JavaScript
-Html
-Css
+JAVASCRIPT, HTML e CSS
